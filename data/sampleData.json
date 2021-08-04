@@ -1,0 +1,18 @@
+{
+    "product": 
+        {
+            "title": "Nintendo Switch Console",
+            "colours": [
+                {
+                "color": "pink",
+                "image": "https://media.very.co.uk/i/very/QE9G4_SQ1_0000000054_CORAL_SLf?$550x733_standard$",
+                "defaultImage": true
+            }, 
+            {
+                "color": "grey",
+                "image": "https://media.very.co.uk/i/very/PEM4V_SQ1_0000000005_GREY_SLf?$550x733_standard$",
+                "defaultImage": false
+            }
+            ]
+        }
+}
